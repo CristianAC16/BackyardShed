@@ -1,7 +1,7 @@
 <h1>Backyard Shed</h1>
 
 <h2>Description</h2>
-This project involves the design and construction of a 10ft x 16ft backyard shed, replacing two previously removed sheds. 
+Designing and building a 10ft x 16ft backyard shed, including the demolition of two 10ft x 10ft sheds. 
 The new shed will serve as a versatile workspace for storage and small-scale tasks, featuring built-in shelving, a workbench, and electrical outlets. 
 It will be constructed with durable materials, ensuring long-term stability and security. 
 The focus is on creating a functional and organized space, while maintaining safety, ventilation, and efficiency.
@@ -18,57 +18,41 @@ These 5 steps were considered:
 
 5.  Safety Factors and Durability: <br /> The factor of safety of ≥ 2 for shaft diameters at critical points is required, and all components must be designed for a 99% reliability factor.
 
-<h2>I was in charge of ...</h2>
-<h3>CAD Design</h3>
+<h2>CAD Design</h3>
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/Xuzm5eB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> Gearbox
-<br />
-<br />
-
-<p align="center">
-<img src="https://i.imgur.com/QwAWBsD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> Gear Assembly
+<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Detailed Drawing
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/XGCy5Mw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> Gear
+<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Foundations Drawing
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/ExdaM3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> Pinion
+<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Bill of Materials
+<br />
+<br />
+
+<h2>Final Results</h2>
+
+<br />
+<p align="center">
+<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/hi350Qp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> Shafts
-<br />
-<br />
-  
-<h3>Shear Force and Moment Diagrams for both Shafts</h3>
-
-<br />
-<p align="center">
-<img src="https://i.imgur.com/3Et2QSB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-<p align="center">
-<img src="https://i.imgur.com/CKEA1x4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<h3>Bearing Calculation & Selection</h3>
-<br />
-
-<h2><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/c0ab4d610bdbdcf2d95b76e420d7403df2812088/344%20-%20Team%20%232%20-%20Gearbox%20Project.pdf">Click for Full Project Report</a></h2>
+<h2><a href="__">Click for Full Project Report</a></h2>
 <br />
 <br />
 
