@@ -16,11 +16,15 @@ The following things were done:
 
 4.  Foundation <br />
 
-5.  Framing <br />
+5.  Framing (floor, walls & roof) <br />
 
-6.  Roofing <br />
+6.  Shingles <br />
 
-7.  Insolation <br />
+7.  Siding <br />
+
+8.  Insolation <br />
+
+9.  Finishing Touches <br />
 
 <h2>CAD Design</h2>
 <br />
