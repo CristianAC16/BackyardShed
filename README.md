@@ -1,24 +1,28 @@
-<h1>Backyard Shed</h1>
+<h1>10' x 16' Backyard Shed</h1>
 
 <h2>Description</h2>
-Designing and building a 10ft x 16ft backyard shed, including the demolition of two 10ft x 10ft sheds. 
-The new shed will serve as a versatile workspace for storage and small-scale tasks, featuring built-in shelving, a workbench, and electrical outlets. 
-It will be constructed with durable materials, ensuring long-term stability and security. 
-The focus is on creating a functional and organized space, while maintaining safety, ventilation, and efficiency.
+Building and designing a versatile outdoor workspace for storage of tools and equipment, and small-scale projects.
+This project replaced two old 10' x 10' sheds, prioritizing the efficient use of space in my backyard.
+The space features built-in shelving, storage units, a workbench, and electrical outlets.
 <br />
-These 5 steps were considered:
+<br />
+The following things were done:
 
-1.  Material Selection: <br /> Identifying the appropriate steel grade for the gears, shafts and key, with sufficient mechanical properties (e.g. tensile strength, hardness, and fatigue resistance).
+1.  CAD Design <br />
 
-2.  Gear Design: <br /> Spur gears involve selecting the number of teeth, pitch diameter, and gear ratio. The gears must be designed to handle the required torque and power while considering factors such as pressure angle (20°), diametral pitch (6), and reliability (99%). The gearbox must also meet a design life of 14,000 hours.
+2.  Bill of Materials <br />
 
-3.  Shaft Design: <br /> Shaft 1 (pinion) and shaft 2 (gear) must be designed with adequate diameters, supported by bearings at locations A, B, C & D. Both shafts should be sized to handle the loads based on shear, bending moments, and torque diagrams. A factor of safety ≥ 2.5 for static design and ≥ 1.5 for fatigue design must be ensured, and endurance limits for fatigue calculations should be considered.
+3.  Demolition <br /> 
 
-4.  Bearings Selection: <br /> Bearings must be selected to match the shaft dimensions and rotational speeds, ensuring smooth operation while withstanding the load.
+4.  Foundation <br />
 
-5.  Safety Factors and Durability: <br /> The factor of safety of ≥ 2 for shaft diameters at critical points is required, and all components must be designed for a 99% reliability factor.
+5.  Framing <br />
 
-<h2>CAD Design</h3>
+6.  Roofing <br />
+
+7.  Insolation <br />
+
+<h2>CAD Design</h2>
 <br />
 
 <p align="center">
@@ -33,9 +37,11 @@ These 5 steps were considered:
 <br />
 <br />
 
+<h2> Bill of Materials</h2>
+<br />
+
 <p align="center">
 <img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> Bill of Materials
 <br />
 <br />
 
