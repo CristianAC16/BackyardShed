@@ -32,7 +32,7 @@ The following things were done:
 <br />
 
 <p align="center">
-<img src="https://imgur.com/NIaW9hB" height="80%" width="80%" alt="Final Structure"/>
+<img src="https://imgur.com/J5i2rog" height="80%" width="80%" alt="Final Structure"/>
 <br/> Final Structure
 <br />
 <br />
