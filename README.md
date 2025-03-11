@@ -26,12 +26,14 @@ The following things were done:
 
 9.  Finishing Touches <br />
 
+10. Future Additions <br />
+
 <h2>CAD Design</h2>
 <br />
 
 <p align="center">
-<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> Detailed Drawing
+<img src="https://imgur.com/NIaW9hB" height="80%" width="80%" alt="Final Structure"/>
+<br/> Final Structure
 <br />
 <br />
 
