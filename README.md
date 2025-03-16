@@ -28,18 +28,51 @@ The following things were done:
 
 10. Future Additions <br />
 
-<h2>CAD Design</h2>
+<h2>Final CAD Design</h2>
 <br />
 
 <p align="center">
-<img src="https://imgur.com/J5i2rog" height="80%" width="80%" alt="Final Structure"/>
-<br/> Final Structure
+<img src="https://i.imgur.com/pJPGoyB.png" height="80%" width="80%" alt="Final Structure"/>
+<br/>
+<br />
+<br />
+
+<h2>Other Views</h2>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/v2Hg43u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Foundations
 <br />
 <br />
 
 <p align="center">
-<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> Foundations Drawing
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Shed Frame (Initial Structure - No Reinforcement - No Roof)
+<br />
+<br />
+
+<p align="center">
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Shed Frame (Structure Reinforcement + Door)
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/Mwy9vTy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Shed Frame (Roof - Without Reinforcement)
+<br />
+<br />
+
+<p align="center">
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Shed Frame (Concentrated View - Roof reinforcement)
+<br />
+<br />
+
+<p align="center">
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> Shed Framing (Roof - reinforcement)
 <br />
 <br />
 
