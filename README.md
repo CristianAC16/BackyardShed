@@ -32,7 +32,7 @@ These were the steps:
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/pJPGoyB.png" height="80%" width="80%" alt="Final Structure"/>
+<img src="https://i.imgur.com/rFJfNvf.png" height="80%" width="80%" alt="Final Structure"/>
 <br/>
 <br />
 <br />
@@ -41,37 +41,37 @@ These were the steps:
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/v2Hg43u.png" height="80%" width="80%" alt="Foundation"/>
+<img src="https://i.imgur.com/juJbhnC.png" height="80%" width="80%" alt="Foundation"/>
 <br/> Foundation
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Initial Structure - No Reinforcement - No Roof"/>
+<img src="https://i.imgur.com/M4d5jbm.png" height="80%" width="80%" alt="Initial Structure - No Reinforcement - No Roof"/>
 <br/> Shed Frame (Initial Structure - No Reinforcement - No Roof)
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Structure Reinforcement + Door"/>
+<img src="https://i.imgur.com/pNTVHYl.png" height="80%" width="80%" alt="Structure Reinforcement + Door"/>
 <br/> Shed Frame (Structure Reinforcement + Door)
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/Mwy9vTy.png" height="80%" width="80%" alt="Roof - Without Reinforcement"/>
+<img src="https://i.imgur.com/QoXDekY.png" height="80%" width="80%" alt="Roof - Without Reinforcement"/>
 <br/> Shed Frame (Roof - Without Reinforcement)
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Concentrated View - Roof reinforcement"/>
+<img src="https://i.imgur.com/cy8WRf4.png" height="80%" width="80%" alt="Concentrated View - Roof reinforcement"/>
 <br/> Shed Frame (Concentrated View - Roof reinforcement)
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Roof - reinforcement"/>
+<img src="https://i.imgur.com/5XOXHyc.png" height="80%" width="80%" alt="Roof - reinforcement"/>
 <br/> Shed Framing (Roof - reinforcement)
 <br />
 <br />
@@ -80,7 +80,7 @@ These were the steps:
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/lvbwVn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Nsb8vRf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
