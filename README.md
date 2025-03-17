@@ -6,7 +6,7 @@ This project replaced two old 10' x 10' sheds, prioritizing the efficient use of
 The space features built-in shelving, storage units, a workbench, and electrical outlets.
 <br />
 <br />
-The following things were done:
+These were the steps:
 
 1.  CAD Design <br />
 
@@ -41,37 +41,37 @@ The following things were done:
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/v2Hg43u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> Foundations
+<img src="https://i.imgur.com/v2Hg43u.png" height="80%" width="80%" alt="Foundation"/>
+<br/> Foundation
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Initial Structure - No Reinforcement - No Roof"/>
 <br/> Shed Frame (Initial Structure - No Reinforcement - No Roof)
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Structure Reinforcement + Door"/>
 <br/> Shed Frame (Structure Reinforcement + Door)
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/Mwy9vTy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mwy9vTy.png" height="80%" width="80%" alt="Roof - Without Reinforcement"/>
 <br/> Shed Frame (Roof - Without Reinforcement)
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Concentrated View - Roof reinforcement"/>
 <br/> Shed Frame (Concentrated View - Roof reinforcement)
 <br />
 <br />
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Roof - reinforcement"/>
 <br/> Shed Framing (Roof - reinforcement)
 <br />
 <br />
@@ -80,10 +80,11 @@ The following things were done:
 <br />
 
 <p align="center">
-<img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lvbwVn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+ <!--
 <h2>Final Results</h2>
 
 <br />
@@ -94,10 +95,6 @@ The following things were done:
 
 <p align="center">
 <img src="__" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<h2><a href="__">Click for Full Project Report</a></h2>
 <br />
 <br />
 
