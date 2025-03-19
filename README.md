@@ -15,29 +15,39 @@ These were the steps:
 3.  Demolition <br /> 
 
 4.  Foundation <br />
+    -  Placement of Concrete Blocks 
+    -  Floor Framing 
+    -  Tar Coating 
+    -  Plywood for Floors 
 
-5.  Framing (floor, walls & roof) <br />
+5.  Framing (walls & roof) <br />
 
-6.  Shingles <br />
+6.  Plywood Walls and Ceiling <br />
 
-7.  Siding <br />
+7.  Tar Paper on Ceiling and Outside Walls <br />
 
-8.  Insolation <br />
+8.  Shingles <br />
 
-9.  Finishing Touches <br />
+9.  Siding <br />
 
-10. Future Additions <br />
+10. Soffit <br />
 
-<h2>Final CAD Design</h2>
+12. Insolation <br />
+
+13. Finishing Touches <br />
+
+14. Future Additions <br />
+
+<h2>6 Principle Views(first angle project)
+<h3>Final CAD Design</h3>
 <br />
 
 <p align="center">
 <img src="https://i.imgur.com/rFJfNvf.png" height="80%" width="80%" alt="Final Structure"/>
 <br/>
 <br />
-<br />
 
-<h2>Other Views</h2>
+<h3>Other Views</h3>
 <br />
 
 <p align="center">
@@ -48,31 +58,31 @@ These were the steps:
 
 <p align="center">
 <img src="https://i.imgur.com/M4d5jbm.png" height="80%" width="80%" alt="Initial Structure - No Reinforcement - No Roof"/>
-<br/> Shed Frame (Initial Structure - No Reinforcement - No Roof)
+<br/> Shed Frame (Initial Structure, No Roof)
 <br />
 <br />
 
 <p align="center">
 <img src="https://i.imgur.com/pNTVHYl.png" height="80%" width="80%" alt="Structure Reinforcement + Door"/>
-<br/> Shed Frame (Structure Reinforcement + Door)
+<br/> Shed Frame (Structure Reinforcement & Door)
 <br />
 <br />
 
 <p align="center">
 <img src="https://i.imgur.com/QoXDekY.png" height="80%" width="80%" alt="Roof - Without Reinforcement"/>
-<br/> Shed Frame (Roof - Without Reinforcement)
-<br />
-<br />
-
-<p align="center">
-<img src="https://i.imgur.com/cy8WRf4.png" height="80%" width="80%" alt="Concentrated View - Roof reinforcement"/>
-<br/> Shed Frame (Concentrated View - Roof reinforcement)
+<br/> Shed Frame (Initial Roof)
 <br />
 <br />
 
 <p align="center">
 <img src="https://i.imgur.com/5XOXHyc.png" height="80%" width="80%" alt="Roof - reinforcement"/>
-<br/> Shed Framing (Roof - reinforcement)
+<br/> Shed Framing (Roof Reinforcement)
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/cy8WRf4.png" height="80%" width="80%" alt="Concentrated View - Roof reinforcement"/>
+<br/> Shed Frame (Concentrated View of Roof Reinforcement)
 <br />
 <br />
 
@@ -82,6 +92,9 @@ These were the steps:
 <p align="center">
 <img src="https://i.imgur.com/Nsb8vRf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+
+<h2> Future Additions</h2>
 <br />
 
  <!--
