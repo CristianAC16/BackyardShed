@@ -36,8 +36,6 @@ These were the steps:
 
 13. Finishing Touches <br />
 
-14. Future Additions <br />
-
 <h2>6 Principle Views(first angle project)
 <h3>Final CAD Design</h3>
 <br />
