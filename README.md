@@ -55,19 +55,19 @@ These were the steps:
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/M4d5jbm.png" height="80%" width="80%" alt="Initial Structure - No Reinforcement - No Roof"/>
+<img src="https://i.imgur.com/V5M9NYU.png" height="80%" width="80%" alt="Initial Structure - No Reinforcement - No Roof"/>
 <br/> Shed Frame (Initial Structure, No Roof)
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/pNTVHYl.png" height="80%" width="80%" alt="Structure Reinforcement + Door"/>
+<img src="https://i.imgur.com/IG2cpiq.png" height="80%" width="80%" alt="Structure Reinforcement + Door"/>
 <br/> Shed Frame (Structure Reinforcement & Door)
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/QoXDekY.png" height="80%" width="80%" alt="Roof - Without Reinforcement"/>
+<img src="https://i.imgur.com/ja73ez9.png" height="80%" width="80%" alt="Roof - Without Reinforcement"/>
 <br/> Shed Frame (Initial Roof)
 <br />
 <br />
