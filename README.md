@@ -1,6 +1,6 @@
 <h1>10' x 16' Backyard Shed</h1>
 
-<h2>Description</h2>
+<h2>Short Description</h2>
 Building and designing a versatile outdoor workspace for storage of tools and equipment, and small-scale projects.
 This project replaced two old 10' x 10' sheds, prioritizing the efficient use of space in my backyard.
 The space features built-in shelving, storage units, a workbench, and electrical outlets.
