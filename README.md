@@ -31,7 +31,7 @@ These were the steps:
 
 <p align="center">
 <img src="https://i.imgur.com/rFJfNvf.png" height="80%" width="80%" alt="Final Structure"/>
-<br/>
+<br/> Final Design 
 <br />
 
 <h3>Other Views</h3>
