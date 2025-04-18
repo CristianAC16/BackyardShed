@@ -9,31 +9,20 @@ The space features built-in shelving, storage units, a workbench, and electrical
 These were the steps:
 
 1.  CAD Design <br />
-
 2.  Bill of Materials <br />
-
 3.  Demolition <br /> 
-
 4.  Foundation <br />
     -  Placement of Concrete Blocks 
     -  Floor Framing 
     -  Tar Coating 
     -  Plywood for Floors 
-
 5.  Framing (walls & roof) <br />
-
 6.  Plywood Walls and Ceiling <br />
-
 7.  Tar Paper on Ceiling and Outside Walls <br />
-
 8.  Shingles <br />
-
 9.  Siding <br />
-
 10. Soffit <br />
-
 12. Insolation <br />
-
 13. Finishing Touches <br />
 
 <h2>6 Principle Views(first angle project)
