@@ -86,6 +86,9 @@ Designing and building versatile outdoor workspaces for tool storage and small p
 <br />
 <br />
 
+<h3>Pictures/Photos</h3>
+<br />
+
 <h3>Shed/Cabanon #2</h3>
 <h4>Final CAD Design/Conception Final CAD</h4>
 <br />
